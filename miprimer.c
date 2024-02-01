@@ -11,6 +11,6 @@ int main()
 	// prints hello world
 	printf("LA bienvenida de los datos");
 
-	return 0;
+	return 0
 }
 
